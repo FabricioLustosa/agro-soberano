@@ -1,0 +1,28 @@
+# 🌾 Agro Soberano
+
+MVP para centralizar **cotações de grãos, pecuária e insumos agrícolas** em um só lugar.  
+Feito para facilitar o acesso de produtores rurais a informações de mercado em tempo real.
+
+---
+
+## 🚀 Funcionalidades
+
+✅ Consulta de preços de:
+- Grãos e produtos agrícolas (soja, milho, trigo, café, algodão etc.)
+- Pecuária (arroba do boi gordo, bezerro, frango, suíno, leite)
+- Insumos e custos (dólar, diesel, fertilizantes)
+
+✅ Filtro por categoria com **drop-down intuitivo**
+
+✅ Layout simples e responsivo
+
+---
+
+## ⚙️ Tecnologias
+
+- **Frontend:** HTML, CSS, JavaScript *(ou React, se usar)*
+# - **Backend:** Node.js *(opcional, se for usar APIs)*
+# - **Versionamento:** Git & GitHub
+
+
+
